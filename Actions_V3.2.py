@@ -7,7 +7,6 @@ Created on Sat Dec 31 00:37:14 2022
 
 #%% Import des données
 
-!pip install yfinance
 import streamlit as st
 import yfinance as yf
 import numpy as np
