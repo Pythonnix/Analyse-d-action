@@ -6,9 +6,9 @@ Created on Sat Dec 31 00:37:14 2022
 """
 
 #%% Import des données 
+import streamlit as st
 import yfinance as yf
 import numpy as np
-import streamlit as st
 
 
 st.set_page_config(
