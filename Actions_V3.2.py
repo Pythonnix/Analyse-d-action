@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 31 00:37:14 2022
 
-@author: 
+@author: Pythonnix le gaulois
 """
 
 #%% Import des données 
@@ -23,7 +23,7 @@ st.markdown("<h1 style='text-align: center; color: steelblue; font-family: Droid
 
 Ticker_yahoo = st.text_input( label = 'Ticker yahoo finance :')
 
-# Ticker_yahoo = 'AI.PA'
+# Ticker_yahoo = 'GOOG'
 
 if Ticker_yahoo != "" :
     try:
